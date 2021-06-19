@@ -1,0 +1,4 @@
+front/dist/
+front/target/
+back/target/
+Cargo.lock
