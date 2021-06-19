@@ -1,0 +1,9 @@
+[package]
+name = "hal-back-wepapp"
+version = "0.0.1"
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.10"
+rocket_contrib = "0.4.10"
+rusqlite = "0.25.3"
