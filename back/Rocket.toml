@@ -1,0 +1,2 @@
+[global.databases]
+diesel_sqlite_pool = { url = "./database.sqlite" }
